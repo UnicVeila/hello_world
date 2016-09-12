@@ -2,4 +2,4 @@
 This is my repository for git induction
 
 
-I now edit this file first and commit it.
+I now edit this file sencond time and commit it.
